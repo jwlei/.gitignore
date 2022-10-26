@@ -1,3 +1,11 @@
+# IDE specific #
+################
+*/out/
+*/target/
+.vscode/*
+.idea/*
+
+
 # Compiled source #
 ###################
 *.com
