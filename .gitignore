@@ -52,7 +52,7 @@ local.properties
 /nbdist/
 /.nb-gradle/
 
-# Compiled source #
+# Compiled sources #
 ###################
 *.com
 *.class
@@ -112,13 +112,9 @@ Thumbs.db
 hs_err_pid*
 replay_pid*
 
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
 
 # STS (Spring Tool Suite)
 .springBeans
-
-
 
 # Others #
 ##########
