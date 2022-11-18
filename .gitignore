@@ -2,9 +2,6 @@
 ################
 
 # IntelliJ IDEA #
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 */target/
 .idea/*
 .idea
@@ -12,7 +9,10 @@ out/
 /*.iml
 /*.ipr
 /*.iws
+!**/src/main/**/out/
+!**/src/test/**/out/
 /out
+out/
 /out/*.*
 
 # Eclipse #
